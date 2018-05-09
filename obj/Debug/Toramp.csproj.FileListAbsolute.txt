@@ -1,0 +1,15 @@
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\bin\Debug\Toramp.exe.config
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\bin\Debug\Toramp.exe
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\bin\Debug\Toramp.pdb
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp.csprojResolveAssemblyReference.cache
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\MainWindow.g.cs
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\App.g.cs
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp_MarkupCompile.cache
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp_MarkupCompile.lref
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\MainWindow.baml
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp.g.resources
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp.Properties.Resources.resources
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp.csproj.GenerateResource.Cache
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp.csproj.CoreCompileInputs.cache
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp.exe
+C:\Users\anci_oq88\source\repos\Toramp\Toramp\obj\Debug\Toramp.pdb
